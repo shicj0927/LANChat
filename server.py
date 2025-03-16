@@ -92,6 +92,7 @@ def checkUser(uid,key):
 			return "OK"
 	return "Fail"
 
+"""
 #清理消息，仅调试
 @app.route('/api/clearMsg')
 def clearMsg():
@@ -102,6 +103,7 @@ def clearMsg():
 @app.route('/api/getUserData')
 def getUserData():
 	return str(userList)
+"""
 
 @app.route('/api/changeKey/uid=<int:uid>&ok=<ok>&nk=<nk>')
 def changeKey(uid,ok,nk):
