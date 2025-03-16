@@ -1,5 +1,11 @@
 # LANChat
 
+![](https://pic1.imgdb.cn/item/67d6513888c538a9b5bf1233.png)
+
+![](https://pic1.imgdb.cn/item/67d6511d88c538a9b5bf1230.png)
+
+![](https://pic1.imgdb.cn/item/67d6513888c538a9b5bf1233.png)
+
 开发计划
 
 - [x] 发送消息
